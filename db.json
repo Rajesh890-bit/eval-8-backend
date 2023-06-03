@@ -36,6 +36,13 @@
       "email": "eve.holt@reqres.in",
       "password": "cityslicka",
       "id": 1
+    },
+    {
+      "username": "raj@mail.com",
+      "avatar": "raj@mail.com",
+      "email": "raj@mail.com",
+      "password": "raj@mail.com",
+      "id": 2
     }
   ],
   "forum": []
