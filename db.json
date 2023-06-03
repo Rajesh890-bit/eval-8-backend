@@ -1,14 +1,17 @@
 {
-  "question": {
-    "userAvatar": "user_avatar.png",
-    "username": "JohnDoe123",
-    "questionTitle": "How to sort an array in JavaScript?",
-    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-    "language": "JavaScript",
-    "upvotes": 10,
-    "answers": 3,
-    "postedDate": "2023-05-30"
-  },
+  "question": [
+    {
+      "userAvatar": "user_avatar.png",
+      "username": "JohnDoe123",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30",
+      "id": 1
+    }
+  ],
   "answers": [
     {
       "userAvatar": "user_avatar2.png",
@@ -59,5 +62,54 @@
       "id": 4
     }
   ],
-  "forum": []
+  "forum": [
+    {
+      "username": "JohnDoe",
+      "questionTitle": "ttt",
+      "questionDescription": "how to write ode in jsx",
+      "language": "Java",
+      "postedDate": "2023-06-03T09:00:05.706Z",
+      "id": 2
+    },
+    {
+      "username": "JohnDoe",
+      "questionTitle": "ggg",
+      "questionDescription": "ggg",
+      "language": "Other",
+      "postedDate": "2023-06-03T09:18:50.914Z",
+      "id": 3
+    },
+    {
+      "username": "JohnDoe",
+      "questionTitle": "sss",
+      "questionDescription": "sss",
+      "language": "Python",
+      "postedDate": "2023-06-03T09:18:56.458Z",
+      "id": 4
+    },
+    {
+      "username": "JohnDoe",
+      "questionTitle": "fff",
+      "questionDescription": "fff",
+      "language": "Other",
+      "postedDate": "2023-06-03T09:19:01.306Z",
+      "id": 5
+    },
+    {
+      "username": "JohnDoe",
+      "questionTitle": "nnnn",
+      "questionDescription": "nnnn",
+      "language": "Java",
+      "postedDate": "2023-06-03T09:19:07.642Z",
+      "id": 6
+    },
+    {
+      "username": "JohnDoe",
+      "questionTitle": "fhsgh",
+      "questionDescription": "fragaa",
+      "language": "Java",
+      "postedDate": "2023-06-03T09:31:02.519Z",
+      "id": 7
+    }
+  ]
 }
