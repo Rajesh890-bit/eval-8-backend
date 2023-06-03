@@ -31,16 +31,11 @@
   ],
   "users": [
     {
-      "username": "rrr@mail.com",
-      "avatar": "rrr@mail.com",
-      "email": "rrr@mail.com",
-      "password": "rrr@mail.com"
-    },
-    {
-      "username": "mmm@mail.com",
-      "avatar": "mmm@mail.com",
-      "email": "mmm@mail.com",
-      "password": "mmm@mail.com"
+      "username": "hhh",
+      "avatar": "hhh",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "id": 1
     }
   ],
   "forum": []
