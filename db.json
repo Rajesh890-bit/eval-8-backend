@@ -43,6 +43,20 @@
       "email": "raj@mail.com",
       "password": "raj@mail.com",
       "id": 2
+    },
+    {
+      "username": "subrata@mail.com",
+      "avatar": "subrata@mail.com",
+      "email": "subrata@mail.com",
+      "password": "subrata@mail.com",
+      "id": 3
+    },
+    {
+      "username": "gandu@mail.com",
+      "avatar": "gandu@mail.com",
+      "email": "gandu@mail.com",
+      "password": "gandu@mail.com",
+      "id": 4
     }
   ],
   "forum": []
